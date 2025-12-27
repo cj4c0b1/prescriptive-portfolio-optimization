@@ -15,7 +15,7 @@ A Python-based prescriptive analytics solution for portfolio optimization. This 
 1.  **Clone the repository**:
 
     ```bash
-    git clone https://github.com/StartUp-TBD/prescriptive-portfolio-optimization.git
+    git clone https://github.com/cj4c0b1/prescriptive-portfolio-optimization.git
     cd prescriptive-portfolio-optimization
     ```
 
