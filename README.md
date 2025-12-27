@@ -68,3 +68,9 @@ _(Note: Results will vary based on the random seed or real-world data used.)_
 ## 📝 License
 
 This project is open-source and available under the MIT License.
+
+## ☕ Donations
+
+If you find this project useful, consider supporting its development:
+
+- **EVM Wallet**: `0x7B267EcEc11a07CA2a782E4b8a51558a70449e7c`

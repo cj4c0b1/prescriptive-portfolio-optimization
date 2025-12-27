@@ -1,3 +1,7 @@
+# Author: j4c0b1
+# GitHub: https://github.com/cj4c0b1
+# Donations (EVM): 0x7B267EcEc11a07CA2a782E4b8a51558a70449e7c
+
 import yfinance as yf
 import pandas as pd
 import numpy as np
